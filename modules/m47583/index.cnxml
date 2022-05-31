@@ -1,0 +1,88 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Photosynthetic Pathways</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47583</md:content-id>
+  <md:title>Photosynthetic Pathways</md:title>
+  <md:abstract/>
+  <md:uuid>d0b6df3d-22b7-411f-8f28-5eeed0e1c82d</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-170"><quote id="guthrie">You can't have a light without a dark to stick it in</quote>."
+Arlo Guthrie, American musician</para><section id="import-auto-id1170385401162">
+      <para id="import-auto-id1170385325612">In a previous module, you learned about photosynthesis, the mechanism plants use to convert solar energy into chemical energy.  The light energy captured is used to make ATP and NADPH, which is then used to reduce carbon from a simple form (CO<sub>2</sub>) into a more complex form (sugars). The first step of the Calvin cycle is the fixation of carbon dioxide to RuBP, and the plants that only use this mechanism of carbon fixation are called C<sub>3</sub> plants. About 85% of the plant species on the planet are C<sub>3</sub> plants; some examples are rice, wheat, soybeans and all trees.</para><para id="eip-845">The process of photosynthesis has a theoretical efficiency of 30% (i.e., the maximum amount of chemical energy output would be only 30% of the solar energy input), but in reality the efficiency is much lower. It is only about 3% on cloudy days.  Why is so much solar energy lost? There are a number of factors contributing to this energy loss, and one metabolic pathway that contributes to this low efficiency is photorespiration. During photorespiration, the key photosynthetic enzyme Rubisco (ribulose-1,5-bisphosphate carboxylase oxygenase) uses O<sub>2</sub> as a substrate instead of CO<sub>2</sub>. This process uses up a considerable amount of energy without making sugars (<link target-id="photorespiration" document=""/>).  When a plant has its stomata open (CO<sub>2</sub> is diffusing in while O<sub>2</sub> and water are diffusing out), photorespiration is minimized because Rubisco has a higher affinity for CO<sub>2</sub> than for O<sub>2</sub> when air temperatures are below 30°C (86°F). However, when a plant closes its stomata during times of water stress and O<sub>2</sub> from photosynthesis builds up inside the cell, the rate of photorespiration increases because O<sub>2</sub> is now more abundant inside the mesophyll.  So, there is a tradeoff. Plants can leave the stomata open and risk drying out, or they can close the stomata, thereby reducing the uptake of CO<sub>2</sub>, and decreasing the efficiency of photosynthesis.  In addition, Rubisco has a higher affinity for O<sub>2</sub> when temperatures increase, which means that C<sub>3</sub> plants use more energy (ATP) for photorespiration at higher temperatures.</para></section>
+  
+<figure id="photorespiration"><media id="photoresp" alt="comp photorespiration and carbon fixation">
+    <image mime-type="image/jpeg" src="../../media/photorespiration2.jpg" width="620"/>
+  </media>
+  
+<caption>A comparison of photorespiration and carbon fixation in C3 plants. During photorespiration, O<sub>2</sub> is bound to RuBP and forms phosphoglycolate (PG) and Phosphoglycerate (PGA), PG then undergoes an number energy requiring reactions releasing CO2. Work by Eva Horne.
+  </caption></figure><para id="eip-776">Evolutionarily speaking, why is photorespiration still around? One hypothesis is that it is evolutionary baggage from a time when the atmosphere had a lower O<sub>2</sub> concentration than it does today. In other words, when Rubisco first evolved millions of years ago, the O<sub>2</sub> concentration was so low that excluding O<sub>2</sub> from its binding site had little or no influence on the efficiency of photosynthesis.  The modern Rubisco retains some of its ancestral affinity for O<sub>2</sub>, which leads to the energy costs associated with photorespiration. However, plant cell physiologists are discovering that there might be some metabolic benefits associated with photorespiration, which would help explain why this seemingly wasteful pathway is still found in plants. Adding to the dilemma is the fact that when plant geneticists “knock out” Rubisco’s ability to fix O<sub>2</sub>, Rubisco also loses its ability to fix CO<sub>2</sub>. It is possible that the active site of this enzyme cannot be engineered, by artificial or natural selection, so that it exclusively binds CO<sub>2</sub> and not O<sub>2</sub>.</para><section id="eip-560"><title>C<sub>4</sub> plant and CAM Pathways as a Means of Reducing Photorespiration</title><para id="eip-966">The C<sub>4</sub> and CAM pathways for fixing CO<sub>2</sub> are two adaptations that improve the efficiency of photosynthesis, by ensuring that Rubisco encounters high CO<sub>2</sub> concentrations and thus reduces photorespiration. These two photosynthetic adaptations for fixing CO<sub>2</sub> have evolved independently a number of times in species that evolved from wet and dry, but typically warm climates. Why have these mechanisms evolved independently so many times? Plants that minimize photorespiration may have a significant competitive advantage, because a considerable amount of energy (in the form of ATP) is lost in plants during photorespiration. In many environments, plants that use solar energy more efficiently should out-compete those which are less efficient.
+</para><section id="eip-999"><title>C<sub>4</sub> Pathway</title><para id="eip-866">In C<sub>4</sub> plants, the reactions that fix atmospheric CO<sub>2</sub> and the Calvin cycle are physically separated, with the reactions that fix atmospheric CO<sub>2</sub> occurring in the mesophyll cells and the Calvin cycle occurring in special cells that surround the veins in the leaves.  These cells are called bundle-sheath cells. How does this work? Atmospheric CO<sub>2</sub> is fixed in the mesophyll cells as a simple 4-carbon organic acid (malate) by an enzyme that has no affinity for O<sub>2</sub>. Malate is then transported to the bundle-sheath cells.  Inside the bundle sheath, malate is oxidized to a 3-C organic acid, and in the process, 1 molecule of CO<sub>2</sub> is produced from every malate molecule (<link target-id="C3_C4_leaves" document=""/>).  The CO<sub>2</sub> is then fixed by Rubisco into sugars, via the Calvin cycle, exactly as in C<sub>3</sub> photosynthesis. There is an additional cost of two ATPs associated with moving the three-carbon “ferry” molecule from the bundle sheath cell back to the mesophyll to pick up another molecule of atmospheric CO<sub>2</sub>. Since the spatial separation in bundle-sheath cells minimizes O<sub>2</sub> concentrations in the locations where Rubisco is located, photorespiration is minimized (<link target-id="C4_fixation" document=""/>). This arrangement of cells reduces photorespiration and increases the efficiency of photosynthesis for C<sub>4</sub> plants. In addition, C<sub>4</sub> plants require about half as much water as a C<sub>3</sub> plant. The reason C<sub>4</sub> plants require less water is due to the fact that the physical shape of the stomata and leaf structure of C<sub>4</sub> plants helps reduce water loss by developing a large CO<sub>2</sub> concentration gradient between the outside of the leaf (400 ppm) and the mesophyll cells (10 ppm). The large CO<sub>2</sub> concentration gradient reduces water loss via transpiration through the stomata.
+</para><figure id="C3_C4_leaves"><media id="leafxsection" alt="C3_C4 cross section">
+    <image mime-type="image/jpeg" src="../../media/c3_c4_leavesb.jpg" width="720"/>
+  </media>
+  
+<caption>Cross section of a C<sub>3</sub> and C<sub>4</sub> plant leaf. Work by Eva Horne
+  </caption></figure><figure id="C4_fixation"><media id="C4" alt="C4 carbon fixation">
+    <image mime-type="image/jpeg" src="../../media/C4.jpg" width="320"/>
+  </media>
+  
+<caption>The spatial separation of Carbon fixation and the Calvin cycle in C<sub>4</sub> plants. Work by Eva Horne
+  </caption></figure><para id="eip-778">The C<sub>4</sub> pathway is used in about 3% of all vascular plants; some examples are crabgrass, sugarcane and corn. C<sub>4</sub> plants are common in habitats that are hot, but are less abundant in areas that are cooler, because the enzyme that fixes the CO<sub>2</sub> in the mesophyll is less efficient at lower temperature. One hypothesis for the abundance of C<sub>4</sub> plants in hot habitats is that the benefits of reduced photorespiration and water loss exceeds the ATP cost of moving the the CO<sub>2</sub> from the mesophyll cell to bundle-sheath cell.</para></section><section id="eip-310"><title>CAM</title><para id="eip-575">Many plants such as cacti and pineapples, which are adapted to arid environments, use a different energy and water saving pathway called crassulacean acid metabolism (CAM). This name comes from  the family of plants (Crassulaceae) in which scientists first discovered the pathway.  Instead of separating the light-dependent reactions and the use of CO<sub>2</sub> in the Calvin cycle spatially, CAM plants separate these processes temporally (<link target-id="CAM" document=""/>). At night, CAM plants open their stomata, and an enzyme in the mesophyll cells fix the CO<sub>2</sub> as an organic acid and store the organic acid in vacuoles until morning. During the day the light-dependent reactions supply the ATP and NADPH necessary for the Calvin cycle to function, and the CO<sub>2</sub> is released from those organic acids and used to make sugars.  Plant species using CAM photosynthesis are the most water efficient of all; the stomata are only open at night when humidity is typically higher and the temperatures are much cooler (which serves to lower the diffusive gradient driving water loss from leaves).  The CAM pathway is primarily an adaptation to water-limited environments; the fact that this pathway also stops photorespiration is an added benefit.
+</para><figure id="CAM"><media id="CAMfix" alt="CAM Carbon Fixation">
+    <image mime-type="image/jpeg" src="../../media/CAM.jpg" width="320"/>
+  </media>
+  
+<caption>Temporal separation of Carbon fixation and the Calvin cycle in CAM plants. Work by Eva Horne
+  </caption></figure></section></section>
+
+
+
+<para id="eip-887">Overall, C<sub>3</sub>, C<sub>4</sub> and CAM plants all use the Calvin cycle to make sugars from CO<sub>2</sub>. However, the various ways in which plants fix CO<sub>2</sub> varies with the advantages and disadvantages associated with the mechanism and the habitats where plants can be found (Table 1).</para>
+
+<para id="eip-995">As humans continue to burn fossil fuels, CO<sub>2</sub> levels in the atmosphere will continue to increase. This human alteration of the environment has sparked the development of a number of interesting questions. What influence will increasing CO<sub>2</sub> have on the distributions of C<sub>3</sub>, C<sub>4</sub> and CAM plants?  What influence will increasing CO<sub>2</sub> have on agricultural production? Is it possible that an increase in agricultural production by additional CO<sub>2</sub> in the atmosphere could offset or mitigate the decrease in agricultural production caused by climate change? </para><table id="eip-440" summary="Characteristics of C3, C4 and CAM methods of fixing CO2">
+<tgroup cols="4"><tbody>
+  <row>
+    <entry/>
+    <entry>C<sub>3</sub> plant</entry>
+    <entry>C<sub>4</sub> plant</entry>
+    <entry>CAM Plant</entry>
+  </row>
+  <row>
+    <entry>Cost</entry>
+    <entry>Photorespiration</entry>
+    <entry>ATP cost associated with fixing carbon twice. Carbon fixation is less efficient under cold conditions.</entry>
+    <entry>Reduced amount of fixed carbon, stomata only open at night</entry>
+  </row>
+  <row>
+    <entry>Benefits</entry>
+    <entry>Carbon fixation without using ATP</entry>
+    <entry>Reduced photorespiration and ability to fix Carbon under high temperatures and reduced water loss</entry>
+    <entry>Reduced photorespiration and reduced water loss</entry>
+  </row>
+  <row>
+    <entry>Separation of light-dependent reactions and carbon fixation</entry>
+    <entry>None, all of these reactions occur in the same cells</entry>
+    <entry>Spatial, these two sets of reactions occur in different cells</entry>
+    <entry>Temporal, these two sets of reactions occur at different times of day</entry>
+  </row>
+  <row>
+    <entry>Habitat</entry>
+    <entry>Cool and moist</entry>
+    <entry>Hot, not in cold environments (see cost.)</entry>
+    <entry>Hot and dry, large temperature differential between night and day</entry>
+  </row>
+  
+</tbody>
+
+
+
+
+
+
+
+
+</tgroup><caption>Characteristics of C<sub>3</sub>, C<sub>4</sub> and CAM methods of fixing CO<sub>2</sub></caption>
+</table></content>
+</document>

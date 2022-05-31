@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Calvin Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47332</md:content-id>
+  <md:title>Calvin Cycle</md:title>
+  <md:abstract/>
+  <md:uuid>61cfbd85-9ef4-4791-9742-d45491848a44</md:uuid>
+</metadata>
+
+<content>
+<para id="eip-452"><quote id="capra">By blending water and minerals from below with sunlight and CO<sub>2</sub> from above, green plants link the earth to the sky. We tend to believe that plants grow out of the soil, but in fact most of their substance comes from the air.</quote>
+Fritjof Capra, <emphasis effect="italics">The Web of Life: A New Scientific Understanding of Living Systems</emphasis>, (1997)</para><para id="fs-idp47951280">After the energy from the sun is converted into chemical energy and temporarily stored in ATP and NADPH molecules, the cell has the fuel needed to build carbohydrate molecules for long-term energy storage. The products of the light-dependent reactions, ATP and NADPH, have lifespans in the range of millionths of seconds, whereas the products of the light-independent reactions (carbohydrates and other forms of reduced carbon) can survive for hundreds of millions of years. Carbohydrates, like the cellulose that makes up the bulk of most plants, obviously contain carbon. Where does the carbon come from? It comes from the air, in the form of carbon dioxide, the gas that is a waste product of respiration in microbes, fungi, plants, and animals.</para><section id="fs-idm160767200">
+<title>The Calvin Cycle</title>
+<para id="fs-idm22256">In plants, carbon dioxide (CO<sub>2</sub>) enters the leaves through stomata, where it diffuses over short distances through intercellular spaces until it reaches the mesophyll cells. Once in the mesophyll cells, CO<sub>2</sub> diffuses into the stroma of the chloroplast—the site of light-independent reactions of photosynthesis. These reactions actually have several names associated with them. Another term, the <term>Calvin cycle</term>, is named for the man who discovered it, and because these reactions function as a cycle. Others call it the Calvin-Benson cycle to include the name of another scientist involved in its discovery. The most outdated name is dark reactions (the term originally used by Melvin Calvin, who got the Nobel Prize for elucidating these reactions), because light is not directly required (<link target-id="fig-ch08_03_01" document=""/>). However, the term dark reactions can be misleading because it implies incorrectly that the reaction only occurs at night or is independent of light, which is why it has faded from everyday usage.</para><figure id="fig-ch08_03_01"><media id="fs-idm25248320" alt="This illustration shows that ATP and NADPH produced in the light reactions are used in the Calvin cycle to make sugar.">
+<image mime-type="image/jpg" src="../../media/calvin pre.jpg" width="550"/>
+</media>
+
+<caption>Light reactions harness energy from the sun to produce chemical bonds, ATP, and NADPH. These energy-carrying molecules are made in the stroma where carbon fixation takes place. Work by Eva Horne and Robert A. Bear</caption></figure><para id="fs-idp23499712">The light-independent reactions of the Calvin cycle can be organized into three basic stages: fixation, reduction, and regeneration.</para>
+<section id="fs-idm53150960">
+<title>Stage 1: Fixation</title>
+<para id="fs-idm187183792">In the stroma, in addition to CO<sub>2</sub>,<sub> </sub>two other components are present to initiate the light-independent reactions: an enzyme called ribulose bisphosphate carboxylase (RuBisCO), and three molecules of ribulose bisphosphate (RuBP), as shown in <link target-id="fig-ch08_03_02" document=""/>. RuBP has five atoms of carbon, flanked by two phosphates.</para>
+
+
+<para id="fs-idp17489872">
+<figure id="fig-ch08_03_02"><media id="fs-idm92787152" alt="A diagram of the Calvin cycle is shown with its three stages: carbon fixation, PGA reduction, and regeneration of RuBP. In stage 1, the enzyme RuBisCO adds a carbon dioxide to the five-carbon molecule RuBP, producing two three-carbon PGA molecules. In stage 2, two NADPH and two ATP are used to reduce PGA to PGAL. In stage 3 RuBP is regenerated from PGAL. One ATP is used in the process. Three complete cycles produces one new PGA, which is shunted out of the cycle and made into glucose (C6H12O6).">
+<image mime-type="image/png" src="../../media/detail Calvin Cycle.jpg" width="450"/>
+</media>
+
+<caption>The Calvin cycle has three stages. In stage 1, the enzyme RuBisCO incorporates carbon dioxide into an organic molecule, PGA. In stage 2, the organic molecule is reduced using electrons supplied by NADPH. In stage 3, RuBP, the molecule that starts the cycle, is regenerated so that the cycle can continue. Only one carbon dioxide molecule is incorporated at a time, so the cycle must be completed three times to produce a single three-carbon PGAL molecule, and six times to produce a six-carbon glucose molecule. (Original by OpenStax Modified by Robert A. Bear)</caption></figure></para>
+<!-- <para><link target-id="fig-ch08_03_02" document=""/>D</para> -->
+
+<para id="fs-idm152383840">RuBisCO catalyzes a reaction between CO<sub>2</sub> and RuBP. For each CO<sub>2</sub> molecule that reacts with one RuBP, two molecules of phosphoglycerate (PGA) form. PGA has three carbons and one phosphate. Each turn of the cycle involves only one RuBP and one carbon dioxide and forms two molecules of PGA. The number of carbon atoms remains the same, as the atoms move to form new bonds during the reactions (3 atoms from 3CO<sub>2</sub> + 15 atoms from 3RuBP = 18 atoms in 3 atoms of PGA). This process is called <term>carbon</term> <term>fixation</term>, because CO<sub>2</sub> is “fixed” from an inorganic form into organic molecules.</para></section>
+<section id="fs-idm89996944">
+<title>Stage 2: Reduction</title>
+<para id="fs-idm86368800">ATP and NADPH are used to convert the six molecules of PGA into six molecules of a chemical called phosphoglyceraldehyde (PGAL). That is a reduction reaction because it involves the gain of electrons (from NADPH) by PGA. Recall that a <term>reduction</term> is the gain of an electron by an atom or molecule. Six molecules of both ATP and NADPH are used; making glucose is obviously an energy-intensive activity. For ATP, energy is released with the loss of the terminal phosphate atom, converting it into ADP; for NADPH, both energy and a hydrogen atom are lost, converting it into NADP<sup>+</sup>. Both of these molecules return to the nearby site of the light-dependent reactions to be reused and re-energized.</para></section>
+<section id="fs-idm23606256">
+<title>Stage 3: Regeneration</title>
+<para id="fs-idm57998960">Interestingly, at this point, only one of the PGAL molecules leaves the Calvin cycle and is sent to the cytoplasm to contribute to the formation of other compounds needed by the plant. Because the PGAL exported from the chloroplast has three carbon atoms, it takes three “turns” of the Calvin cycle to fix enough net carbon to export one PGAL. But each turn makes two PGAL, thus three turns make six PGAL. One is exported while the remaining five PGAL molecules remain in the cycle and are used to regenerate RuBP, which enables the system to prepare for more CO<sub>2</sub> to be fixed. Three more molecules of ATP are used in these regeneration reactions.</para></section>
+<section id="eip-236"><title>Overview of Calvin Cycle</title><para id="eip-699">During the Calvin cycle, energy and electrons harvested in the light-dependent reactions are used to produce carbohydrates i.e. glucose. There are three stages in the Calvin cycle. The first stage is carbon fixation, CO<sub>2</sub> from the atmosphere is attached to an organic molecule RuBP during this stage. The second stage is the carbon reduction, the energy and electrons in ATP and NADPH are used to produce carbohydrates (glucose). The last stage is the regeneration stage, energy from ATP is used to regenerate the first substrate of the cycle (RUBP). See (<link target-id="calvin_overview" document=""/>) below for a review of the Calvin Cycle.
+
+
+
+<figure id="calvin_overview"><media id="Calvin_Overview" alt="An overview of Calvin Cycle.">
+<image mime-type="image/jpg" src="../../media/Calvin Cycle.jpg" width="600"/>
+</media>
+<caption>This image represents the Calvin Cycle. (Image by Eva Horne and Robert Bear)</caption></figure></para></section><note id="fs-idm158415504" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-idm104644592"><title>Photosynthesis</title>During the evolution of photosynthesis, a major shift occurred from the bacterial type of photosynthesis that involves only one photosystem and is typically anoxygenic (does not generate oxygen) into modern oxygenic (does generate oxygen) photosynthesis, employing two photosystems. This modern oxygenic photosynthesis is used by many organisms—from giant tropical leaves in the rainforest to tiny cyanobacterial cells—and the process and components of this photosynthesis remain largely the same. Photosystems absorb light and use electron transport chains to convert energy into the chemical energy of ATP and NADH. The subsequent light-independent reactions then assemble carbohydrate molecules with this energy.</para>
+<para id="fs-idm140187264">Photosynthesis in desert plants has evolved adaptations that conserve water. In the harsh dry heat, every drop of water must be used to survive. Because stomata must open to allow for the uptake of CO<sub>2</sub>, water escapes from the leaf during active photosynthesis. Desert plants have evolved processes to conserve water and deal with harsh conditions. A more efficient use of CO<sub>2</sub> allows plants to adapt to living with less water. Some plants such as cacti (<link target-id="fig-ch08_03_03" document=""/>) can prepare materials for photosynthesis during the night by a temporary carbon fixation/storage process, because opening the stomata at this time conserves water due to cooler temperatures. In addition, cacti have evolved the ability to carry out low levels of photosynthesis without opening stomata at all, an extreme mechanism to face extremely dry periods.</para>
+</note><figure id="fig-ch08_03_03"><media id="fs-idm5505152" alt="This photo shows a blooming cactus growing in cracks in a rock.">
+<image mime-type="image/jpg" src="../../media/Figure_08_03_03-17ec.jpg" width="450"/>
+</media>
+
+<caption>The harsh conditions of the desert have led plants like these cacti to evolve variations of the light-independent reactions of photosynthesis. These variations increase the efficiency of water usage, helping to conserve water and energy. (credit: David A. Rintoul)</caption></figure>
+</section>
+
+
+<section id="eip-638"><title>Overview of Photosynthesis</title><para id="eip-906">Photosynthesis converts light energy to chemical energy in two stages, the light-dependent reactions and the Calvin cycle. By exploring these two sets of reactions, we learned how photons of light energy are turned into food by photosynthesis. The light-dependent reactions harvest the light energy to make ATP and to transfer electrons from H<sub>2</sub>O to NADP<sup>+</sup> forming NADPH and Oxygen gas. The energy and electrons in ATP and NADPH are used in the Calvin cycle to produce glucose from carbon dioxide. The sunlight energy entering the chloroplasts becomes stored as the chemical bonds in the organic molecules. See (<link target-id="photo_overview" document=""/>) below for a review of photosynthesis.
+
+<figure id="photo_overview"><media id="Photo_Overview" alt="A summary of photosynthesis.">
+<image mime-type="image/jpg" src="../../media/photo overview.jpg" width="500"/>
+</media>
+<caption>The process of photosynthesis is divided to two stages that are linked by the energy and electron carriers ATP and NADPH. The light-dependent reactions split water and releases oxygen as a byproduct, and these reactions convert light energy to chemical energy (ATP and NADPH). The Calvin cycle uses the energy in ATP and NADPH and produces carbohydrates by fixing CO<sub>2</sub> a byproduct of aerobic cellular respiration. (Image by Eva Horne and Robert Bear)</caption></figure></para><para id="eip-630">What is the fate of the carbohydrates produced by photosynthesis? About 50% of the carbohydrates are used by the plant for aerobic cellular respiration in their mitochondria. The other 50% of the carbohydrates are the building blocks for the biological macromolecules the make up plant cells that you learned about in module 3. As you may realize, these biological macromolecules are the food we eat, and you are what you eat. Taking this a bit further, all the activities you do from reading this text to sleeping require energy and that energy comes from the Sun.</para></section>
+
+</content>
+
+
+</document>

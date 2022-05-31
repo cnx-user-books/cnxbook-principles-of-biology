@@ -1,0 +1,77 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Nutritional Adaptations of Plants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47408</md:content-id>
+  <md:title>Nutritional Adaptations of Plants</md:title>
+  <md:abstract>B</md:abstract>
+  <md:uuid>2052b34a-5566-44b3-ac15-6f8a293bd891</md:uuid>
+</metadata>
+
+<content>
+<para id="eip-299"><title>Introduction</title><quote id="crookes">The fixation of atmospheric nitrogen is one of the great discoveries, awaiting the genius of chemists.</quote>
+Sir William Crookes
+Presidential Address to the British Association for the Advancement of Science, 1898</para><para id="fs-idm8339104">Of course, plants discovered how to fix nitrogen (convert N<sub>2</sub> gas to a form that can be incorporated in biological molecules such as nucleic acids and proteins) a long time ago. Or rather, they recruited nitrogen-fixing bacteria into a mutualistic relationship, where the bacteria fix nitrogen and provide nitrogen-containing compounds to the plant in exchange for food and shelter.</para><para id="fs-idm38767216">Plants may also enlist the help of other microbial partners in nutrient acquisition. Particular species of bacteria and fungi have evolved along with certain plants to create a mutualistic symbiotic relationship with roots. This improves the nutrition of both the plant and the microbe. The formation of bacteria-containing nodules on the roots for nitrogen fixation, or the association of mycorrhizal fungi with roots for enhanced nutrient and  water uptake, can be considered among the nutritional adaptations of plants. However, these are not the only type of adaptations that we may find; many plants have other adaptations that allow them to thrive under specific conditions.</para><section id="fs-idp28833632">
+<title>Nitrogen Fixation: Root and Bacteria Interactions</title>
+<para id="fs-idp25847248">Nitrogen is an important macronutrient because it is part of nucleic acids and proteins. Atmospheric nitrogen, which is the diatomic molecule N<sub>2,</sub> or dinitrogen, is the largest pool of nitrogen in terrestrial ecosystems. However, plants cannot take advantage of this nitrogen because they do not have the necessary enzymes to convert it into biologically useful forms. However, nitrogen can be “fixed,” which means that it can be converted to ammonia (NH<sub>3</sub>) through biological, physical, or chemical processes. As you have learned, biological nitrogen fixation is the conversion of atmospheric nitrogen (N<sub>2</sub>) into ammonia (NH<sub>3</sub>), exclusively carried out by prokaryotes such as soil bacteria or cyanobacteria. Biological processes contribute 65 percent of the nitrogen used in agriculture.</para><figure id="fig-ch31_03_01"><media id="fs-idp34390736" alt=" Top photo shows a bowl of shelled peanuts. Middle photo shows red kidney beans. Bottom photo shows white, bumpy, round chickpeas.">
+<image mime-type="image/png" src="../../media/Figure_31_03_01abc.png" width="500"/>
+</media>
+
+<caption>Some common edible legumes—like (a) peanuts, (b) beans, and (c) chickpeas—are able to interact symbiotically with soil bacteria that fix nitrogen. (credit a: modification of work by Jules Clancy; credit b: modification of work by USDA)</caption></figure><!--<para id="fs-idm104257680"><link target-id="fig-ch31_03_01" document=""/>Soybeans are able to fix nitrogen in their roots, which are not harvested at the end of the growing season. The belowground nitrogen can be used in the next season by the corn.</para>--> 
+
+<para id="fs-idm81678592">Nitrogen-fixing soil bacteria, collectively called <term>rhizobia</term>, symbiotically interact with legume roots to form specialized structures called <term>nodules</term>, in which nitrogen fixation takes place. This process entails the reduction of atmospheric nitrogen to ammonia, by means of the enzyme nitrogenase. Therefore, using rhizobia is a natural and environmentally friendly way to fertilize plants, as opposed to chemical fertilization that uses a nonrenewable resource, such as natural gas. Through symbiotic nitrogen fixation, the plant benefits from using an endless source of nitrogen from the atmosphere. The process simultaneously contributes to soil fertility because the plant root system leaves behind some of the biologically available nitrogen. As in any symbiosis, both organisms benefit from the interaction: the plant obtains ammonia, and bacteria obtain carbon compounds generated through photosynthesis, as well as a protected niche in which to grow (<link target-id="fig-ch31_03_02" document=""/>).</para><figure id="fig-ch31_03_02"><media id="fs-idm64165648" alt=" Part A is a photo of legume roots, which are long and thin with hair-like appendages. Nodules are bulbous protrusions extending from the root. Part B is a transmission electron micrograph of a nodule cell cross section. Black oval-shaped vesicles containing rhizobia are visible. The vesicles are surrounded by a white layer and are scattered unevenly throughout the cell, which is gray.">
+<image mime-type="image/jpg" src="../../media/Figure_31_03_02ab.jpg" width="475"/>
+</media>
+
+<caption>Soybean roots contain (a) nitrogen-fixing nodules. Cells within the nodules are infected with <emphasis effect="italics">Bradyrhyzobium japonicum, </emphasis>a rhizobia or “root-loving” bacterium. The bacteria are encased in (b) vesicles inside the cell, as can be seen in this transmission electron micrograph. (credit a: modification of work by USDA; credit b: modification of work by Louisa Howard, Dartmouth Electron Microscope Facility; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idm34396800">
+<title>Mycorrhizae: The Symbiotic Relationship between Fungi and Roots</title>
+<para id="fs-idm73723040">A nutrient depletion zone can develop when there is rapid soil solution uptake, low nutrient concentration, low diffusion rate, or low soil moisture. These conditions are very common; therefore, most plants rely on fungi to facilitate the uptake of minerals from the soil. Fungi form symbiotic associations called mycorrhizae with plant roots, in which the fungi actually are integrated into the physical structure of the root. The fungi colonize the living root tissue during active plant growth.</para>
+<para id="fs-idm58935600">Through mycorrhization, the plant obtains mainly phosphate and other minerals, such as zinc and copper, from the soil. The fungus obtains nutrients, such as sugars, from the plant root (<link target-id="fig-ch31_03_03" document=""/>). Mycorrhizae help increase the surface area of the plant root system because hyphae, which are narrow, can spread beyond the nutrient depletion zone. Hyphae can grow into small soil pores that allow access to phosphorus that would otherwise be unavailable to the plant. The beneficial effect on the plant is best observed in poor soils. The benefit to fungi is that they can obtain up to 20 percent of the total carbon accessed by plants. Mycorrhizae functions as a physical barrier to pathogens. It also provides an induction of generalized host defense mechanisms, and sometimes involves production of antibiotic compounds by the fungi.</para><figure id="fig-ch31_03_03"><media id="fs-idm110735488" alt=" Photo shows a root with many branching tips. The surface of the root is fuzzy in appearance.">
+<image mime-type="image/jpg" src="../../media/Figure_31_03_03.jpg" width="320"/>
+</media>
+<caption>Root tips proliferate in the presence of mycorrhizal infection, which appears as off-white fuzz in this image. (credit: modification of work by Nilsson et al., BMC Bioinformatics 2005)</caption></figure><para id="fs-idm62928560">There are two types of mycorrhizae: ectomycorrhizae and endomycorrhizae. Ectomycorrhizae form an extensive dense sheath around the roots, called a mantle. Hyphae from the fungi extend from the mantle into the soil, which increases the surface area for water and mineral absorption. This type of mycorrhizae is found in forest trees, especially conifers, birches, and oaks. Endomycorrhizae, also called arbuscular mycorrhizae, do not form a dense sheath over the root. Instead, the fungal mycelium is embedded within the root tissue. Endomycorrhizae are found in the roots of more than 80 percent of terrestrial plants.</para>
+</section>
+<section id="fs-idm13521920">
+<title>Nutrients from Other Sources</title>
+<para id="fs-idm112425152">Some plants cannot produce their own food and must obtain their nutrition from outside sources. This may occur with plants that are parasitic or saprophytic. Some plants are mutualistic symbionts, epiphytes, or insectivorous.</para>
+<section id="fs-idm95947664">
+<title>Plant Parasites</title>
+<para id="fs-idm82435936">A parasitic plant depends on its host for survival. Some parasitic plants have no leaves. An example of this is the dodder (<link target-id="fig-ch31_03_04" document=""/>), which has a weak, cylindrical stem that coils around the host and forms suckers. From these suckers, cells invade the host stem and grow to connect with the vascular bundles of the host. The parasitic plant obtains water and nutrients through these connections. The plant is a total parasite (a holoparasite) because it is completely dependent on its host. Other parasitic plants (hemiparasites) are fully photosynthetic and only use the host for water and minerals. There are about 4,100 species of parasitic plants.</para><figure id="fig-ch31_03_04"><media id="fs-idp43334176" alt=" Photo shows a beige vine with small white flowers. The vine is wrapped around a woody stem of a plant with green leaves.">
+<image mime-type="image/jpg" src="../../media/Figure_31_03_04.jpg" width="320"/>
+</media>
+<caption>The dodder is a holoparasite that penetrates the host’s vascular tissue and diverts nutrients for its own growth. Note that the vines of the dodder, which has white flowers, are beige.  The dodder has no chlorophyll and cannot produce its own food. (credit: "Lalithamba"/Flickr)</caption></figure></section>
+
+<section id="fs-idm45335584">
+<title>Saprophytes</title>
+<para id="fs-idm100582592">A <term>saprophyte</term> is a plant that does not have chlorophyll and gets its food from dead matter, similar to bacteria and fungi (note that fungi are often called saprophytes, which is incorrect, because fungi are not plants). Plants like these use enzymes to convert organic food materials into simpler forms from which they can absorb nutrients (<link target-id="fig-ch31_03_05" document=""/>). Most saprophytes do not directly digest dead matter: instead, they parasitize fungi that digest dead matter, or are mycorrhizal, ultimately obtaining photosynthate from a fungus that derived photosynthate from its host. Saprophytic plants are uncommon; only a few species are described.</para>
+<figure id="fig-ch31_03_05"><media id="fs-idp39724192" alt=" Photo shows a plant with a red stem and small white flowers spotted with red">
+<image mime-type="image/jpg" src="../../media/Figure_31_03_05.jpg" width="400"/>
+</media>
+<caption>Saprophytes, like this Spotted Coralroot (<emphasis effect="italics">Corallorhiza maculata)</emphasis>, obtain their food from the mycelium of soil fungi, and do not have chlorophyll. The Spotted Coralroot is found in montane forests in northern and western North America and Central America. This specimen was photographed in the Pecos Wilderness area in New Mexico. (credit: photo by D. A. Rintoul)</caption></figure></section>
+
+
+
+
+<section id="fs-idm45225584">
+
+
+<title>Epiphytes</title>
+<para id="fs-idm6646048">An epiphyte is a plant that grows on other plants, but is not dependent upon the other plant for nutrition (<link target-id="fig-ch31_03_07" document=""/>). Epiphytes have two types of roots: clinging aerial roots, which absorb nutrients from humus that accumulates in the crevices of trees; and aerial roots, which absorb moisture from the atmosphere.</para><figure id="fig-ch31_03_07"><media id="fs-idm2188944" alt="Photo shows a tree trunk covered with epiphytes, which look like ferns growing on the trunk of a tree. There are so many epiphytes the trunk is nearly obscured.">
+<image mime-type="image/jpg" src="../../media/Figure_31_03_07.jpg" width="260"/>
+</media>
+
+<caption>These epiphyte plants grow in the main greenhouse of the <emphasis effect="italics">Jardin des Plantes</emphasis> in Paris.</caption></figure></section>
+
+
+<section id="fs-idp114647952">
+<title>Insectivorous Plants</title>
+<para id="fs-idm61390944">An insectivorous plant has specialized leaves to attract and digest insects. You are probably familiar with the Venus flytrap, which has leaves that work as snap-traps . Other kinds of carnivorous plants, such as the sundews, are decorated with glands that secrete a sticky fluid which both attracts and then later digests insects that become ensnared in the sticky fluid. And still another group includes the pitcher plants, which typically catch and hold rainwater in a pitcher-shaped organ. The plant secretes nutrients as well as digestive enzymes into the trapped water. Insects are attracted to, and then fall into, the pool of fluid; they cannot easily escape due to the downward-facing hairs that line the inside of the "pitcher". One unique kind of pitcher plant is the California Pitcher Plant (<emphasis effect="italics">Darlingtonia californica</emphasis>, <link target-id="fig-ch31_03_08" document=""/>), found in bogs and seeps in the mountains of northern California and southern Oregon. The plant, also known as the Cobra Lily, is unique in that it does not trap rainwater in the pitcher, but rather pumps it up from the roots. A tiny entrance hole underneath the "head" of the cobra-shaped structure allows insects in, but they cannot get back out once they are trapped in the digestive fluid stored below. All carnivorous plants are found in nitrogen-poor soils, and obtain the bulk of this critical nutrient from the bodies of insects and other animals that they trap and digest.</para><figure id="fig-ch31_03_08"><media id="fs-idm77401040" alt="Photo shows a California Pitcher Plant.">
+<image mime-type="image/jpg" src="../../media/Figure_31_03_08.jpg" width="320"/>
+</media>
+
+<caption>A California Pitcher Plant has specialized leaves to trap insects. This specimen was photographed in the Trinity Alps Wilderness in northern California. (credit: photo by D. A. Rintoul)</caption></figure></section>
+</section>
+</content>
+
+</document>

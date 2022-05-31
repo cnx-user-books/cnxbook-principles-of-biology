@@ -1,0 +1,309 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11569</md:content-id>
+    <md:title>Principles of Biology</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>db89c8f8-a27c-4685-ad2a-19d11a2a7e2e</md:uuid>
+<md:slug>principles-of-biology</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Module 1: Science, Biology and Evolution</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Studio Biology - What is it?</md:title>
+          <col:content>
+            <col:module document="m47258"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Science as a way of knowing</md:title>
+          <col:content>
+            <col:module document="m47259"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Evolution</md:title>
+          <col:content>
+            <col:module document="m47257"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Taxonomy and phylogeny</md:title>
+          <col:content>
+            <col:module document="m47311"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Module 2: Ecology</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Ecology and Ecosystems</md:title>
+          <col:content>
+            <col:module document="m46864"/>
+            <col:module document="m47376"/>
+            <col:module document="m46869"/>
+            <col:module document="m46870"/>
+            <col:module document="m46871"/>
+            <col:module document="m46872"/>
+            <col:module document="m46873"/>
+            <col:module document="m46874"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Population Ecology</md:title>
+          <col:content>
+            <col:module document="m46877"/>
+            <col:module document="m46878"/>
+            <col:module document="m46879"/>
+            <col:module document="m46880"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Community Ecology</md:title>
+          <col:content>
+            <col:module document="m46881"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Ecological Research</md:title>
+          <col:content>
+            <col:module document="m47261"/>
+            <col:module document="m47265"/>
+            <col:module document="m47264"/>
+            <col:module document="m47266"/>
+            <col:module document="m47268"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Module 3: Cell Biology</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Cell Biology</md:title>
+          <col:content>
+            <col:module document="m47170"/>
+            <col:module document="m47171"/>
+            <col:module document="m47172"/>
+            <col:module document="m47173"/>
+            <col:module document="m47174"/>
+            <col:module document="m47175"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Tour of the Cell: Water, Carbohydrates and Lipids</md:title>
+          <col:content>
+            <col:module document="m47181"/>
+            <col:module document="m47182"/>
+            <col:module document="m47183"/>
+            <col:module document="m47184"/>
+            <col:module document="m47185"/>
+            <col:module document="m47186"/>
+            <col:module document="m47190"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Tour of the Cell: Proteins and Enzyme Function</md:title>
+          <col:content>
+            <col:module document="m47196"/>
+            <col:module document="m47195"/>
+            <col:module document="m47198"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Tour of the Cell: Nucleic Acids and Cell Cycle</md:title>
+          <col:content>
+            <col:module document="m47202"/>
+            <col:module document="m47203"/>
+            <col:module document="m47204"/>
+            <col:module document="m47205"/>
+            <col:module document="m47206"/>
+            <col:module document="m47201"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Module 4: Genetics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Molecular Genetics:DNA to Protein to Phenotype</md:title>
+          <col:content>
+            <col:module document="m47291"/>
+            <col:module document="m47292"/>
+            <col:module document="m47293"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Meiosis and Mendelian Genetics</md:title>
+          <col:content>
+            <col:module document="m47294"/>
+            <col:module document="m47295"/>
+            <col:module document="m47296"/>
+            <col:module document="m47297"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Variations on Mendelian Genetics</md:title>
+          <col:content>
+            <col:module document="m47304"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Population Genetics</md:title>
+          <col:content>
+            <col:module document="m47305"/>
+            <col:module document="m47306"/>
+            <col:module document="m47307"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Module 5: Energetics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Cellular Energetics</md:title>
+          <col:content>
+            <col:module document="m47324"/>
+            <col:module document="m47325"/>
+            <col:module document="m47326"/>
+            <col:module document="m47327"/>
+            <col:module document="m47328"/>
+            <col:module document="m47329"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Photosynthesis</md:title>
+          <col:content>
+            <col:module document="m47330"/>
+            <col:module document="m47331"/>
+            <col:module document="m47332"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Cellular Respiration</md:title>
+          <col:content>
+            <col:module document="m49546"/>
+            <col:module document="m47333"/>
+            <col:module document="m47334"/>
+            <col:module document="m47335"/>
+            <col:module document="m47336"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Bacteria and Fungi: Using Alternative Energy Sources</md:title>
+          <col:content>
+            <col:module document="m47337"/>
+            <col:module document="m70746"/>
+            <col:module document="m47338"/>
+            <col:module document="m47343"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Module 6: Plant Biology</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Evolution and Diversity of Plants</md:title>
+          <col:content>
+            <col:module document="m47381"/>
+            <col:module document="m47386"/>
+            <col:module document="m47388"/>
+            <col:module document="m47389"/>
+            <col:module document="m47399"/>
+            <col:module document="m47390"/>
+            <col:module document="m47391"/>
+            <col:module document="m47393"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Plant Reproduction; Structure and Function of Plant Tissues</md:title>
+          <col:content>
+            <col:module document="m47400"/>
+            <col:module document="m47403"/>
+            <col:module document="m47401"/>
+            <col:module document="m47402"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Interactions of Plants With Their Environment</md:title>
+          <col:content>
+            <col:module document="m47405"/>
+            <col:module document="m47404"/>
+            <col:module document="m47407"/>
+            <col:module document="m47408"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Photosynthesis, Global Climate Change, and Food Production</md:title>
+          <col:content>
+            <col:module document="m47583"/>
+            <col:module document="m47410"/>
+            <col:module document="m47409"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Module 7: Animal Biology</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Animals</md:title>
+          <col:content>
+            <col:module document="m47416"/>
+            <col:module document="m47417"/>
+            <col:module document="m47418"/>
+            <col:module document="m47419"/>
+            <col:module document="m47420"/>
+            <col:module document="m47421"/>
+            <col:module document="m47425"/>
+            <col:module document="m47426"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Material Acquisition and Transport</md:title>
+          <col:content>
+            <col:module document="m47427"/>
+            <col:module document="m47428"/>
+            <col:module document="m47430"/>
+            <col:module document="m47435"/>
+            <col:module document="m47436"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Internal Communication and Coordination</md:title>
+          <col:content>
+            <col:module document="m47519"/>
+            <col:module document="m47442"/>
+            <col:module document="m47429"/>
+            <col:module document="m47444"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>External Communication and Coordination</md:title>
+          <col:content>
+            <col:module document="m63674"/>
+            <col:module document="m47520"/>
+            <col:module document="m47523"/>
+            <col:module document="m47432"/>
+            <col:module document="m47433"/>
+            <col:module document="m47434"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Adaptations to Land</md:title>
+          <col:content>
+            <col:module document="m47445"/>
+            <col:module document="m47521"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

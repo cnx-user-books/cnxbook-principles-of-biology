@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Connection Between DNA and Phenotype</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47293</md:content-id>
+  <md:title>Connection Between DNA and Phenotype</md:title>
+  <md:abstract/>
+  <md:uuid>a6025f0a-a754-4e91-a876-2741fa31be45</md:uuid>
+</metadata>
+
+<content>
+    <list id="eip-739" list-type="bulleted" bullet-style="none"><title>You CAN get there from here...</title><item>In the beginning was the word</item>
+<item>WORD</item>
+<item>WORE</item>
+<item>GORE</item>
+<item>GONE</item>
+<item>GENE</item>
+<item>and by the mutation came the gene.</item></list><para id="eip-816"><cite>Michael A. Arbib, <emphasis effect="italics">Towards a Theoretical Biology: An IUBS Symposium,</emphasis> 1969</cite></para><section id="import-auto-id1169505980699">
+      <title>Sickle Cell Anemia: A look at the connection between DNA and Phenotype </title>
+      <para id="eip-595">Changes in the DNA sequence of a gene are known as <term>mutations</term>. Because genes code for and are translated into proteins, mutations often (but not always) result in changes in the sequence of amino acids in those proteins. Changes in the amino acid sequence can modify or even completely destroy protein function. Proteins have many functions within cells, and a change in those functions results in a change in the phenotype of that cell or organism. So a mutation as simple as a single base change in a DNA sequence can have dramatic effects on phenotype. One of the best examples of this phenomenon can be observed when mutations occur in the gene for one of the protein components of the red blood cell protein we call hemoglobin.</para><para id="import-auto-id5949030">A major component of the <emphasis effect="bold">erythrocytes</emphasis> (red blood cells) found in ver­tebrates is <emphasis effect="bold">hemoglobin</emphasis>. A molecule of hemoglobin from a normal adult human contains 4 proteins (two identical alpha polypeptides and two identical beta polypeptides) surrounding a core of heme (contains complex molecule containing an atom of iron which can combine reversibly with oxygen). Thus, hemoglobin functions as the major oxygen-carrying constituent of blood. Because of hemoglobin, a given volume of blood can carry far more oxygen than could be dissolved in an equal volume of water. </para>
+      <para id="eip-779">The polypeptides that make up the hemoglobin are produced by the processes of transcription and translation. So, the instructions for making the polypeptides are stored in the DNA, and the specific region on the DNA that codes for the polypeptide is called a <emphasis>gene</emphasis>. The physical location of the gene on the chromosome is the <emphasis>locus</emphasis>. If you remember from the earlier section on protein structure and function, the sequence of amino acids in a polypeptide can have a significant effect on the overall function of the protein. Since the sequence of nucleotides in the DNA codes for a particular sequence of amino acids in the polypeptide, it is logical to conclude that changes in the nucleotide sequence in the DNA can change the sequence of amino acids in the polypeptide and thereby changing how the polypeptide functions. </para><para id="import-auto-id1169511044855">In many human populations, particularly those with origins in Central Africa or the Mediterranean, there are individuals who suffer from severe anemia and whose blood contains numerous distorted, sickle-shaped erythrocytes 
+
+(<link target-id="sickle_cell" document=""/>). 
+
+
+Hence, the disease was given the name sickle-cell anemia. </para>
+
+<para id="eip-946"><figure id="sickle_cell"><media id="dogpic" alt="image of sickle cells">
+    <image mime-type="image/jpeg" src="../../media/Sickle_cells.jpg" width="420"/>
+  </media>
+  
+<caption>Notice the sickle shaped cells in the image. By Dr Graham Beards via Wikimedia Commons
+  </caption></figure></para><para id="import-auto-id1169505721272">Sickle-cell anemia is one of the most studied and well-understood genetic diseases. In spite of this level of understanding, there is currently no effective treatment for the disease. Experimental bone marrow transplants have cured the disease in some patients, but bone marrow transplants are currently recommended in only a handful of cases. In the United States alone, there are 50,000 individu­als with sickle-cell anemia. </para>
+      <para id="import-auto-id1169495953459">Biochemical studies established that the gene affected in sickle-cell ane­mia has the code for an abnormal beta polypeptide, which is one of the components of the hemoglobin molecule. Therefore, there are two different forms of the hemoglobin gene that codes for the beta chain: </para><list id="eip-399" list-type="bulleted" bullet-style="none"><item>Form 1: <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis> has the code for a normal beta chain </item>
+<item>Form 2: <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> has the code for an abnormal beta chain </item>
+</list><para id="import-auto-id1169494531860"><emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis> and <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> are considered alleles. The word “allele” comes from the same root as “alternative.” Thus, alleles are alternative forms of the same gene. Alleles arise by mutation. Mutations come about by many different ways, but what is common among the different types of mutations is a change in the order of nucleotides in the DNA. Thinking back to the Central Dogma of Molecular Biology, one can reword it with the above in mind. Changes in the DNA causes changes in RNA which can cause changes in the polypeptide and a new polypeptide is a new phenotype.</para><para id="import-auto-id1169501746760">Humans are <emphasis effect="bold">diploid</emphasis> organisms; they have two copies of most genes. However, the two copies they possess do not have to be identical. When there are two possible alleles for a gene (such as in the gene for the beta chain of hemoglobin), a diploid individual will have one of three possible combinations of the two alleles.  They can be <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis> , <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis>, or <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis><emphasis effect="bold"/>.</para><para id="import-auto-id1169493451688">The set of alleles present in an individual for a given gene is known as the individual’s <emphasis effect="bold">genotype</emphasis>. The three combinations of two alleles above are therefore the three different genotypes. Individuals that have two copies of the same allele are called <emphasis effect="bold">homozygous</emphasis>; individuals with two different alleles are called <emphasis effect="bold">heterozygous</emphasis>. So, an individual that is <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis> is homozygous normal beta chain, an individual that is <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> is heterozygous, and an individual that is <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> is homozygous abnormal beta chain.</para><para id="import-auto-id1169489030812">There is one more term that you need to know: the expression of the particular combination of alleles an individual has at a locus is known as the individual’s phenotype. The <emphasis effect="bold">phenotype</emphasis> is really nothing more than the final end product of the genes and their interaction with the environment. </para>
+      
+
+<para id="eip-898">Homozygous <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> individuals (called sickle-cell anemics) can have many sickle-shaped (as opposed to normal disc-shaped) erythrocytes in their blood. How does this occur? The process is well-understood, and summarized below.</para><para id="import-auto-id1169492954936">In the capillaries (microscopic blood vessels that directly exchange oxygen with the tissues), erythrocytes can be subjected to low oxygen tension after they lose their oxygen to the surrounding tissues. In this low oxygen situation, the abnormal hemoglobin molecules of <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> individuals tend to polymerize (join together), forming stiff, tubular fibers which ultimately distort the shape of the entire erythrocyte, giving it the characteristic “sickle” shape. These sickled cells have a number of effects on the body via two processes. </para><list id="eip-966" bullet-style="none"><item>1. The sickle-shape affects capillary blood flow: </item>
+<item>  Sickled cells are less able to enter and move through the capillaries.</item>
+<item>  Once in the capillaries, they clog capillary flow and cause small blood clots.</item>
+<item>  Reduced blood flow results in reduced oxygen availability to the tissues.</item>
+<item>  Reduced oxygen supply results in tissue death and damage to vital organs (e.g., the heart, liver and spleen).</item>
+<item>2. Sickled blood cells have a shorter lifespan than normal red blood cells:</item>
+<item>  Reduced lifespan of erythrocytes places a greater demand on the bone marrow to make new red blood cells and on the spleen to break down dead erythrocytes.</item>
+<item>  Increased demand on the bone marrow results in severe pain in the long bones and joints.</item>
+<item> </item>
+<item><emphasis>Individuals suffering from sickle-cell anemia are frequently ill and generally have a considerably reduced lifespan. These individuals are said to have sickle-cell disease.</emphasis> </item></list><para id="import-auto-id1169517763657">Homozygous <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis> individuals have erythrocytes which retain their normal shape in the body and which retain normal shape even when blood samples are subjected to greatly reduced oxygen tension in labo­ratory tests. </para><para id="import-auto-id5022088">Heterozygous individuals (<emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis>) are said to be <emphasis effect="bold">carriers</emphasis> for sickle-cell anemia. Note: this is a specific term and is not the same thing as sickle cell anemia—heterozygotes do not have the disease themselves but their children may inherit the condition. Carriers have no anemia, do have good health (as do <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis> individuals) and their erythrocytes maintain normal shape in the blood. In other words, they are phenotypically normal under most conditions, and probably do not know that they “carry” the <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> allele. However, if heterozygotes are exposed to condi­tions of low oxygen levels (such as strenuous activity at high altitudes) some of their erythrocytes do sickle. Red blood cells in blood samples of heterozygotes subjected to greatly reduced oxygen tension in the laboratory also sickle. </para><para id="import-auto-id1169501165122">Why is sickle cell anemia most prevalent in people with origins in Central Africa and the Mediterranean? If you look at the figure below (<link target-id="sickle_cell_and_malaria" document=""/>) , you will see the occurrence of sickle cell anemia overlaps with the pervasiveness of malaria. This seems odd, but those individuals how are heterozygous (<emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis>) for the sickle cell allele are less likely to contract and die from malaria then those who are homozygous (<emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis><emphasis effect="bold"> Hb</emphasis><emphasis effect="bold"><sup>A</sup></emphasis>). The <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> polypeptide that is produced by the heterozygous individual stops the organism (<emphasis effect="italics">Plasmodium</emphasis>) that causes malaria from invading the red blood cells. So, in areas where malaria is common there is selection pressure for the <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> allele, and the <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> allele occurs in a higher frequency because the those who have one copy of the <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> allele will live longer and have more children. In areas where malaria is not common, there is selection pressure against the <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> allele, and the <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> allele occurs in a lower frequency. As you will learn in a later chapter, there is an 25% chance that two carriers will have a child who is homozygous <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis> <emphasis effect="bold">Hb</emphasis><emphasis effect="bold"><sup>S</sup></emphasis>), and this child will pay the evolutionary price for the protection from malaria that the parents were afforded. Hopefully, you will now understand how evolution favors the presence of such a potentially detrimental allele in a population. The sickle cell example is only one of what is called heterozygous advantage, we have provided a number of other examples in <link target-id="eip-101" document=""/>.</para><para id="eip-957"><figure id="sickle_cell_and_malaria"><title>Distribution of malaria and the frequency of sickle cell allele</title><media id="sickle_cell_map" alt="freq sickle cell and malaria">
+    <image mime-type="image/jpeg" src="../../media/sickle_malaria.jpg"/>
+  </media>
+  
+<caption>The hatched line represents the distribution of malaria. The various red colors represent the relative frequency of sickle cell allele in the population with the dark red having the highest frequency and the light red having the lowest frequency. Work by Eva Horne.</caption></figure></para>
+
+
+<table id="eip-101" summary="Heterozygote Advantage"><title>Examples of Heterozygous Advantage in Humans</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>Recessive Illness</entry>
+    <entry>Heterozygote Advantage</entry>
+    <entry>Possible Explanation</entry>
+  </row>
+  <row>
+    <entry>Cystic fibrosis</entry>
+    <entry>protection against diarrheal diseases such as cholera</entry>
+    <entry>Carriers have too few functional chloride channels in intestinal cells, blocking toxin</entry>
+  </row>
+  <row>
+    <entry>G6PD Deficiency</entry>
+    <entry>Protection against malaria</entry>
+    <entry>Red blood cells inhospitable to malaria</entry>
+  </row>
+  <row>
+    <entry>Phenylketonuria (PKU)</entry>
+    <entry>Protection against miscarriage induced by a fungal toxin</entry>
+    <entry>Excess amino acid (phenylalanine) in carriers inactivates toxin</entry>
+  </row>
+  <row>
+    <entry>Tay-Sachs disease</entry>
+    <entry> Protection against tuberculosis</entry>
+    <entry>Unknown</entry>
+  </row>
+  <row>
+    <entry>Noninsulin-dependent diabetes mellitus</entry>
+    <entry>Protection against starvation</entry>
+    <entry>Tendency to gain weight protects against starvation during famine</entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table>
+
+</section>
+  </content>
+</document>

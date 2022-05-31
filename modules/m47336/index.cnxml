@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Metabolism Without Oxygen</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47336</md:content-id>
+  <md:title>Metabolism Without Oxygen</md:title>
+  <md:abstract/>
+  <md:uuid>0277808c-ff84-49e2-97ef-11d839d1a7f7</md:uuid>
+</metadata>
+
+<content>
+<para id="eip-744"><quote id="barry2">Not all chemicals are bad. Without chemicals such as hydrogen and oxygen, for example, there would be no way to make water, a vital ingredient in beer.</quote> - Dave Barry</para><para id="fs-id1982002">The other vital ingredient in beer, of course, is ethanol. And ethanol is one of the more important products of anaerobic respiration. Other compounds, such as lactic acid, are also metabolic by-products of respiration in the absence of oxygen. The key purpose of all of these metabolic pathways is the need to regenerate NAD from the NADH produced during glycolysis. In aerobic respiration, NADH donates those electrons to the electron transfer chain. Recall that the final electron acceptor in that pathway is an oxygen molecule, O<sub>2</sub>. If oxygen is present, then ATP will be produced using the energy of high-energy electrons carried by NADH or FADH<sub>2 </sub>to the electron transport chain. If oxygen is not present, NADH must be reoxidized to NAD<sup>+</sup> for reuse as an electron carrier for the glycolytic pathway to continue. How is this done? Some living systems use an organic molecule as the final electron acceptor. Processes that use an organic molecule to regenerate NAD<sup>+</sup> from NADH are collectively referred to as <term>fermentation</term> (anaerobic metabolism). In contrast, some living systems use an inorganic molecule as a final electron acceptor of the electron transport chain, and this process is called <term>anaerobic cellular respiration</term> in which organisms convert energy for their use in the absence of oxygen.</para><section id="fs-id1986553">
+<title>Anaerobic Metabolism</title><para id="fs-id1451059">Certain prokaryotes, including some species of bacteria and Archaea, use anaerobic respiration. For example, the group of Archaea called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria and Archaea, most of which are anaerobic ( <link target-id="fig-ch07_05_01" document=""/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para>
+<figure id="fig-ch07_05_01"><media id="fs-id1975018" alt="This photo shows a bloom of green bacteria in water.">
+<image mime-type="image/jpg" src="../../media/Figure_07_05_01.jpg" width="400"/>
+</media>
+<caption>The green color seen in these coastal waters is from an eruption of hydrogen sulfide-producing bacteria. These anaerobic, sulfate-reducing bacteria release hydrogen sulfide gas as they decompose algae in the water. (credit: modification of work by NASA/Jeff Schmaltz, MODIS Land Rapid Response Team at NASA GSFC, Visible Earth Catalog of NASA images)</caption></figure><section id="fs-id2121627">
+<title>Lactic Acid Fermentation</title>
+<para id="fs-id2077122">The fermentation method used by animals and certain bacteria, like those in yogurt, is lactic acid fermentation ( <link target-id="fig-ch07_05_02" document=""/>). This type of fermentation is used routinely in mammalian red blood cells and in skeletal muscle that has an insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid accumulation must be removed by the blood circulation and the lactate brought to the liver for further metabolism. </para><para id="fs-id1894837"><figure id="fig-ch07_05_02"><media id="fs-id3107799" alt="This illustration shows that during glycolysis, glucose is broken down into two pyruvate molecules and, in the process, two NADH are formed from NAD^{+}. During lactic acid fermentation, the two pyruvate molecules are converted into lactate, and NADH is recycled back into NAD^{+}.">
+<image mime-type="image/png" src="../../media/lactic.jpg" width="500"/>
+</media>
+<caption>Lactic acid fermentation is common in muscle cells that have run out of oxygen. (Image by Robert Bear)</caption></figure></para>
+<!-- [link]Figure 07_05_02[/link]The illness is caused by lactate accumulation. Lactate levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s. -->
+</section>
+<section id="fs-id2025525">
+<title>Alcohol Fermentation</title>
+<para id="fs-id2988639">Another familiar fermentation process is alcohol fermentation ( <link target-id="fig-ch07_05_03" document=""/>) that produces ethanol, an alcohol. The first chemical reaction of alcohol fermentation is the following (CO<sub>2</sub> does not participate in the second reaction):</para>
+<para id="fs-id1986576">The first reaction is catalyzed by pyruvate decarboxylase, a cytoplasmic enzyme, with a coenzyme of thiamine pyrophosphate (TPP, derived from vitamin B<sub>1</sub> and also called thiamine). A carboxyl group is removed from pyruvate, releasing carbon dioxide as a gas. The loss of carbon dioxide reduces the size of the molecule by one carbon, making acetaldehyde. The second reaction is catalyzed by alcohol dehydrogenase to oxidize NADH to NAD<sup>+</sup> and reduce acetaldehyde to ethanol. The fermentation of pyruvate by yeast produces the ethanol found in alcoholic beverages. Ethanol tolerance of yeast is variable, ranging from about 5 percent to 21 percent, depending on the yeast strain and environmental conditions.</para><figure id="fig-ch07_05_03"><media id="fs-id1797657" alt="This photo shows large cylindrical fermentation tanks stacked one on top of the other.">
+<image mime-type="image/jpg" src="../../media/alcoholic.jpg" width="500"/>
+</media>
+<caption>Alcohol fermentation is occurs in fungi and plants with carbon dioxide and alcohol as the byproducts. (Image by Robert Bear)</caption></figure></section>
+<section id="fs-id811872">
+<title>Other Types of Fermentation</title>
+<para id="fs-id2317124">Other fermentation methods occur in bacteria. Many prokaryotes are facultatively anaerobic. This means that they can switch between aerobic respiration and fermentation, depending on the availability of oxygen. Certain prokaryotes, like <emphasis effect="italics">Clostridia</emphasis>, are obligate anaerobes. Obligate anaerobes live and grow in the absence of molecular oxygen. Oxygen is a poison to these microorganisms and kills them on exposure. It should be noted that all forms of fermentation, except lactic acid fermentation, produce gas. The production of particular types of gas is used as an indicator of the fermentation of specific carbohydrates, which plays a role in the laboratory identification of the bacteria. Various methods of fermentation are used by assorted organisms to ensure an adequate supply of NAD<sup>+</sup> for the sixth step in glycolysis. Without these pathways, that step would not occur and no ATP would be harvested from the breakdown of glucose.</para>
+</section>
+</section>
+</content>
+
+</document>
