@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Robert Bear ,David Rintoul ,Bruce Snyder ,Martha Smith-Caldas ,Christopher Herren ,Eva Horne">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11569</md:content-id>
     <md:title>Principles of Biology</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>db89c8f8-a27c-4685-ad2a-19d11a2a7e2e</md:uuid>
-<md:slug>principles-of-biology</md:slug>
-</metadata>
+    <md:slug>principles-of-biology</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Module 1: Science, Biology and Evolution</md:title>
